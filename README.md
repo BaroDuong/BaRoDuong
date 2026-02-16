@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+🔭 I’m currently working on<br>	•	Building a real-time data processing pipeline for IDFM Stop Monitoring (Kafka → Spark on YARN → HDFS → InfluxDB/Grafana)<br>	•	Developing an H2H analytics pipeline + interactive dashboard for badminton (scraping → SQLite → Streamlit/ECharts)<br>	•	Improving production-grade ETL workflows with dbt + Prefect, plus query optimization on BigQuery/ClickHouse<br><br>👯 I’m looking to collaborate on<br>	•	Data engineering & analytics projects (streaming/real-time pipelines, ETL/ELT, observability, dashboards)<br>	•	Open-source BI/data tooling (dbt models, Prefect flows, data quality checks, metrics layers)<br>	•	Sports analytics projects (badminton/football), especially dashboard + feature engineering<br><br>🤝 I’m looking for help with<br>	•	Internship (6 months) / CDD / CDI in France/Europe (Data Analyst / Data Engineer) — from April 2026 <br>	•	CV/portfolio review for French market + interview prep (SQL/analytics case studies)<br>	•	Best practices for deploying and monitoring data pipelines (Docker, logging/metrics, CI/CD)<br><br>🌱 I’m currently learning<br>	•	Advanced Data Engineering: Spark, Kafka, data modeling, scalable ETL patterns<br>	•	MLOps foundations: packaging, serving, monitoring, reproducibility<br>	•	French (elementary) for daily life & professional communication<br><br>💬 Ask me about<br>	•	KPI dashboards & BI (Power BI / Superset / Redash)<br>	•	BigQuery/ClickHouse optimization, data modeling, dbt, Prefect orchestration<br>	•	Fraud monitoring & marketing analytics metrics design<br><br>⚡ Fun fact<br>	•	Badminton player (10+ years) — competitive amateur level<br>	•	Club vocalist (6+ years)
 
-<!--
-**BaroDuong/BaRoDuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bao-dt) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dtbplayground) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bao.dt.fr.4597@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BaRoDuong&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=BaRoDuong&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BaRoDuong&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=BaRoDuong&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
