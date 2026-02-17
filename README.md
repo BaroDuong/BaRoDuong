@@ -23,7 +23,7 @@
 ## 💫 About Me
 
 ### Background:
-- [ESILV — École Supérieure d’Ingénieurs Léonard de Vinci](<https://www.esilv.fr/>) (M2 Computer Science & Data Science)
+- [ESILV — École Supérieure d’Ingénieurs Léonard de Vinci](<https://www.esilv.fr/>) (M2 - Computer Science & Data Science)
 - Tevi International (Data Analyst & QC Engineer)
 - [Netpower](<https://netpower.com/>) (QC Engineer)
 - [Ho Chi Minh City University of Technology (HCMUT)](<https://hcmut.edu.vn/>) (B.Eng in Computer Science)
