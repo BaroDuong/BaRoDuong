@@ -1,5 +1,50 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>	•	Building a real-time data processing pipeline for IDFM Stop Monitoring (Kafka → Spark on YARN → HDFS → InfluxDB/Grafana)<br>	•	Developing an H2H analytics pipeline + interactive dashboard for badminton (scraping → SQLite → Streamlit/ECharts)<br>	•	Improving production-grade ETL workflows with dbt + Prefect, plus query optimization on BigQuery/ClickHouse<br><br>👯 I’m looking to collaborate on<br>	•	Data engineering & analytics projects (streaming/real-time pipelines, ETL/ELT, observability, dashboards)<br>	•	Open-source BI/data tooling (dbt models, Prefect flows, data quality checks, metrics layers)<br>	•	Sports analytics projects (badminton/football), especially dashboard + feature engineering<br><br>🤝 I’m looking for help with<br>	•	Internship (6 months) / CDD / CDI in France/Europe (Data Analyst / Data Engineer) — from April 2026 <br>	•	CV/portfolio review for French market + interview prep (SQL/analytics case studies)<br>	•	Best practices for deploying and monitoring data pipelines (Docker, logging/metrics, CI/CD)<br><br>🌱 I’m currently learning<br>	•	Advanced Data Engineering: Spark, Kafka, data modeling, scalable ETL patterns<br>	•	MLOps foundations: packaging, serving, monitoring, reproducibility<br>	•	French (elementary) for daily life & professional communication<br><br>💬 Ask me about<br>	•	KPI dashboards & BI (Power BI / Superset / Redash)<br>	•	BigQuery/ClickHouse optimization, data modeling, dbt, Prefect orchestration<br>	•	Fraud monitoring & marketing analytics metrics design<br><br>⚡ Fun fact<br>	•	Badminton player (10+ years) — competitive amateur level<br>	•	Club vocalist (6+ years)
+# Hi, I'm Thai Bao 👋
+
+I’m a Data Analyst / Data Engineer (3+ years), currently pursuing an M2 in Computer Science & Data Science at ESILV (Paris).
+I build production-ready data pipelines and KPI dashboards, focused on reliability, data quality, and measurable business impact.
+🎯 Open to Internship (6 months) / CDD / CDI in France/Europe — from Apr 2026 (🏥 Healthcare / ⚡ Energy preferred)
+
+* * *
+
+## 🧩 Skills & Tools
+- **Programming & Analytics:** SQL, Python, KPI tracking, data cleaning, EDA
+- **Data Engineering:** ETL/ELT, streaming & batch pipelines, data modeling, orchestration
+- **Data Platforms:** BigQuery, ClickHouse, HDFS, InfluxDB
+- **BI & Reporting:** Power BI, Superset, Redash, Grafana
+- **Engineering:** Docker, CI/CD basics, logging/metrics, Git
+- **Languages:** Vietnamese (native), English (professional), French (elementary)
+
+* * *
+
+## 🚀 Featured Projects
+- **🛰️ IDFM Stop Monitoring — Real-time Data Pipeline**  
+  Kafka → Spark on YARN → HDFS → InfluxDB/Grafana (real-time monitoring + metrics).  
+  Repo: <LINK> • Demo/Screens: <LINK>
+
+- **🏸 Badminton H2H Analytics — Pipeline + Dashboard**  
+  Scraping → SQLite → Streamlit/ECharts (interactive insights and comparisons).  
+  Repo: <LINK> • Demo: <LINK>
+
+- **🧪 MLOps / Serving — FastAPI Inference Service (team project)**  
+  `/predict`, `/health`, `/ready` + tests + Docker-ready + basic observability.  
+  Repo: <LINK>
+
+- **📊 KPI Dashboards Portfolio**  
+  Business KPI dashboards + metric definitions (Power BI / Superset).  
+  Repo: <LINK> • Screens: <LINK>
+
+* * *
+
+## ✍️ Latest Updates
+- Built/maintained streaming + ETL pipelines with monitoring dashboards
+- Improving portfolio for the French market (CV + case studies + project documentation)
+- Preparing for SQL/analytics interviews (case studies + performance tuning)
+
+* * *
+
+## ⭐️
+"Data only creates value when it becomes reliable decisions."
+
 
 
 ## 🌐 Socials:
@@ -7,6 +52,7 @@
 
 # 💻 Tech Stack:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BaRoDuong&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=BaRoDuong&theme=highcontrast&hide_border=false)<br/>
@@ -14,5 +60,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BaRoDuong&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
