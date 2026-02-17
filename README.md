@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Thai Bao 
+# 👋 Hi, I'm THAI-BAO
 
 ### A Data Analyst / Data Engineer diving deeper into ML/CV
 
